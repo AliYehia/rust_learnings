@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "grade_calculator",
+]
+resolver = "2"
