@@ -3,5 +3,25 @@
 version = 4
 
 [[package]]
+name = "enum_practice"
+version = "0.1.0"
+
+[[package]]
 name = "grade_calculator"
+version = "0.1.0"
+
+[[package]]
+name = "library_mini_project"
+version = "0.1.0"
+
+[[package]]
+name = "ownership_sandbox"
+version = "0.1.0"
+
+[[package]]
+name = "slices_practice"
+version = "0.1.0"
+
+[[package]]
+name = "strcuts_practice"
 version = "0.1.0"
