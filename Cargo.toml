@@ -1,5 +1,5 @@
 [workspace]
 members = [ "enum_practice",
-    "grade_calculator", "library_mini_project", "ownership_sandbox", "slices_practice", "strcuts_practice",
+    "grade_calculator", "library_mini_project", "ownership_sandbox", "slices_practice", "strcuts_practice", "students_grade_manager",
 ]
 resolver = "2"
