@@ -7,6 +7,10 @@ name = "enum_practice"
 version = "0.1.0"
 
 [[package]]
+name = "error_handling_sandbox"
+version = "0.1.0"
+
+[[package]]
 name = "grade_calculator"
 version = "0.1.0"
 
@@ -23,6 +27,10 @@ name = "pattern_matching"
 version = "0.1.0"
 
 [[package]]
+name = "payment_processing_traits"
+version = "0.1.0"
+
+[[package]]
 name = "slices_practice"
 version = "0.1.0"
 
@@ -32,4 +40,8 @@ version = "0.1.0"
 
 [[package]]
 name = "students_grade_manager"
+version = "0.1.0"
+
+[[package]]
+name = "traits"
 version = "0.1.0"
