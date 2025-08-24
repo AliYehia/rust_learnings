@@ -44,4 +44,26 @@ fn main() {
     // filter numbers that are divisible by 10, square them, and take the first 3
     let final_challange: Vec<i32> = final_nums.iter().filter(|&x| x % 10 == 0).map(|&y| y * y).take(3).collect();
     println!("The vector is: {:?}", final_challange);
+
+    let mut words = vec![
+        String::from("this"),
+        String::from("is"),
+        String::from("words"),
+        String::from("mean"),
+        String::from("nothingatall"),
+    ];
+
+    words.iter().for_each(|w| println!("word: {}", w));
+
+    let short_words: Vec<_> = words
+        .iter()
+        .filter(|w| w.len() <= 3)
+        .collect();
+
+    println!("short words: {:?}", short_words);
+
+    words.iter_mut().for_each(|w| w.push_str("!")); 
+    println!("after exclamation: {:?}", words);
+
+    
 }
