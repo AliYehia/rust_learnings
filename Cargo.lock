@@ -3,6 +3,10 @@
 version = 4
 
 [[package]]
+name = "contacts_miniproject"
+version = "0.1.0"
+
+[[package]]
 name = "enum_practice"
 version = "0.1.0"
 
