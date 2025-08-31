@@ -1,5 +1,19 @@
 [workspace]
-members = [ "closures_again", "contacts_miniproject", "enum_practice", "error_handling_sandbox",
-    "grade_calculator", "iterators_closures", "library_mini_project", "lifetimes_practice", "ownership_sandbox", "pattern_matching", "payment_processing_traits", "slices_practice", "strcuts_practice", "students_grade_manager", "traits",
+members = [ 
+    "closures_again", 
+    "contacts_miniproject", 
+    "enum_practice", 
+    "error_handling_sandbox", "fearless_concurrency", "fund_async",
+    "grade_calculator", 
+    "iterators_closures", "lazy_calculator", 
+    "library_mini_project", 
+    "lifetimes_practice", 
+    "ownership_sandbox", 
+    "pattern_matching", 
+    "payment_processing_traits", "sandbox_gbj", 
+    "slices_practice", "smart_ptrs", 
+    "strcuts_practice", 
+    "students_grade_manager", 
+    "traits",
 ]
 resolver = "2"

@@ -19,11 +19,23 @@ name = "error_handling_sandbox"
 version = "0.1.0"
 
 [[package]]
+name = "fearless_concurrency"
+version = "0.1.0"
+
+[[package]]
+name = "fund_async"
+version = "0.1.0"
+
+[[package]]
 name = "grade_calculator"
 version = "0.1.0"
 
 [[package]]
 name = "iterators_closures"
+version = "0.1.0"
+
+[[package]]
+name = "lazy_calculator"
 version = "0.1.0"
 
 [[package]]
@@ -47,7 +59,15 @@ name = "payment_processing_traits"
 version = "0.1.0"
 
 [[package]]
+name = "sandbox_gbj"
+version = "0.1.0"
+
+[[package]]
 name = "slices_practice"
+version = "0.1.0"
+
+[[package]]
+name = "smart_ptrs"
 version = "0.1.0"
 
 [[package]]
