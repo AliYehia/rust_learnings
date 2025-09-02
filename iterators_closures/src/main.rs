@@ -40,7 +40,7 @@ fn main() {
         None => println!("No number greater than 2 found"),
     }
 
-    let mut final_nums = vec![1, 2, 3, 4, 5, 6, 7, 8, 9, 10,20];
+    let final_nums = vec![1, 2, 3, 4, 5, 6, 7, 8, 9, 10,20];
     // filter numbers that are divisible by 10, square them, and take the first 3
     let final_challange: Vec<i32> = final_nums.iter().filter(|&x| x % 10 == 0).map(|&y| y * y).take(3).collect();
     println!("The vector is: {:?}", final_challange);
